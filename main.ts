@@ -1,11 +1,12 @@
 // News-image entry for make.fun news-image-20261121 (Node 22, standard library only).
 // The entry image is entry.png beside this file: a 1024x1024 front page built from
 // code (flat original illustrations, sharp text) summing up world news on
-// Saturday 21 November 2026 — 35 dated stories across 7 regions: COP31 running
-// into overtime with no deal, five Houthi missiles shot down over Saudi Arabia,
-// a magnitude 6.7 quake in Peru, plus a world map with numbered pins, a numbers
-// strip, per-story sources and verification labels, and a date-check box naming
-// Friday's news as deliberately left out. The program copies it to /output/entry.png.
+// Saturday 21 November 2026 — 40 dated stories across 9 regions: Iran striking
+// Bahrain as tankers are hit in the Strait of Hormuz, drones setting the Russian
+// cargo ship Sparta II ablaze off Finland, COP31 deadlocked over fossil fuels in
+// overtime, plus a world map with numbered pins, a UTC timeline, a numbers strip,
+// per-story sources and verification labels, and a date-check box naming Friday's
+// news as deliberately left out. The program copies it to /output/entry.png.
 // Outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
