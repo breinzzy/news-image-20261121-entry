@@ -1,10 +1,11 @@
 // News-image entry for make.fun news-image-20261121 (Node 22, standard library only).
 // The entry image is entry.png beside this file: a 1024x1024 front page built from
-// code (flat original illustrations, sharp text) summing up world news on
+// code (original illustrations, sharp text) summing up world news on
 // Saturday 21 November 2026 — 40 dated stories across 9 regions: Iran striking
 // Bahrain as tankers are hit in the Strait of Hormuz, drones setting the Russian
 // cargo ship Sparta II ablaze off Finland, COP31 deadlocked over fossil fuels in
-// overtime, plus a world map with numbered pins, a UTC timeline, a numbers strip,
+// overtime, plus a realistic world map with region-coloured pins, a HOW SURE legend
+// and sources footer, a UTC timeline, a numbers strip,
 // per-story sources and verification labels, and a date-check box naming Friday's
 // news as deliberately left out. The program copies it to /output/entry.png.
 // Outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output:
